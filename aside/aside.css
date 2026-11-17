@@ -1,0 +1,25 @@
+aside {
+  font-weight: bold;
+  background-color: lightgray;
+  /* padding-right: 0.5rem; */
+  /* margin-right: 0.5rem; */
+  box-shadow: inset 5px 0 5px -5px #29627e;
+}
+p {
+  text-wrap-style: wrap;
+  word-wrap: break-word;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background-color: mediumpurple;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid black;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  text-decoration: none;
+}
